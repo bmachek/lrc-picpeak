@@ -1,5 +1,7 @@
 # lrc-picpeak
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7X2240HF4)
+
 A Lightroom Classic plugin that uploads photos to a self-hosted [PicPeak](https://github.com/the-luap/picpeak) gallery server.
 
 ## Features
